@@ -6,4 +6,4 @@ HTML and CSS for simple design <br>
 JS and OpenCV.JS for functionality
 # Heres the link:
 https://soyify.netlify.app/
-# This project is still worked on so expect some bugs :)
+# Project is scrapped :(
